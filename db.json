@@ -1,0 +1,24 @@
+{
+  "superheroes": [
+    {
+      "name": "Batman",
+      "realname": "Bruce Wayne",
+      "id": "7da2"
+    },
+    {
+      "name": "Spiderman",
+      "realname": "Peter Parker",
+      "id": "47c2"
+    },
+    {
+      "name": "Superman",
+      "realname": "Clark Kent",
+      "id": "267c"
+    },
+    {
+      "name": "Batgirl 5",
+      "realname": "Barbara Gordan",
+      "id": "f084"
+    }
+  ]
+}
