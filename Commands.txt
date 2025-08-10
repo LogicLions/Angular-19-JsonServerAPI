@@ -1,0 +1,7 @@
+start demo angular 19 project
+->
+ng serve
+
+start json server API
+->
+npx json-server db.json
